@@ -1,1 +1,1 @@
-# VerumNews
+# Verum News

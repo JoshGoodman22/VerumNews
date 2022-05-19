@@ -1,15 +1,45 @@
 
 .topbar {
     margin: 0;
-    text-indent: 40px;
+    text-indent: 31px;
     padding-top: 50px;
-    font-size: 62px;
+    
     padding-bottom: 20px;
     white-space: nowrap;
     font-family: "Papyrus";
     background: linear-gradient( to bottom right, rgba(231,231,240,1) 0%, rgba(192,183,223,1) 8%, rgba(201,198,212,1) 40%);
 }
 
+.top-header {
+    font-size: 49px;
+}
+
+.left-to-right {
+    display:inline-block;
+}
+
 body{
     margin: 0px;
 }
+
+.NewsHead
+{
+font-size: 18px;
+font-family: 'Avantgarde', 'sans-serif', 'Gill Sans';
+margin-left: 30px;
+padding-top: 10px;
+}
+.MiddleBar
+{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 23px;
+}
+
+.Politics
+{
+
+
+}
+
