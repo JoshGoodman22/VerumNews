@@ -1,0 +1,15 @@
+
+.topbar {
+    margin: 0;
+    text-indent: 40px;
+    padding-top: 50px;
+    font-size: 62px;
+    padding-bottom: 20px;
+    white-space: nowrap;
+    font-family: "Papyrus";
+    background: linear-gradient( to bottom right, rgba(231,231,240,1) 0%, rgba(192,183,223,1) 8%, rgba(201,198,212,1) 40%);
+}
+
+body{
+    margin: 0px;
+}
