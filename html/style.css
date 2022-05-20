@@ -5,8 +5,8 @@
     padding-top: 5px;
     padding-bottom: 5px;
     white-space: nowrap;
-    font-family: "Papyrus";
-    background: linear-gradient( to bottom right, rgba(231,231,240,1) 0%, rgba(192,183,223,1) 8%, rgba(201,198,212,1) 40%);
+    font-family: "Garamond";
+    background:  linear-gradient(90deg, rgba(231,231,240,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .top-header {
@@ -17,6 +17,11 @@
     display:inline-block;
 }
 
+.NavPanel
+{
+    display: inline-block;
+}
+
 body{
     margin: 0px;
 }
@@ -24,7 +29,7 @@ body{
 .NewsHead
 {
 font-size: 18px;
-font-family: 'Avantgarde', 'sans-serif', 'Gill Sans';
+font-family: 'Garamond', 'sans-serif', 'Gill Sans';
 margin-left: 30px;
 padding-top: 10px;
 }
@@ -39,10 +44,67 @@ padding-top: 10px;
 .Politics
 {
     background-color: #787878;
-    color: cornsilk;
-    text-shadow: #787878;
+    color:  rgb(224, 224, 224);
+    text-shadow: 2px 2px 8px #000000;
     margin-left: 150px;
-    width: 70px;
-    height: 70px;
+    width: 60x;
+    height: 40px;
+    font-family: 'Garamond', Courier, monospace;
+
 }
+.Climate
+{
+    background-color: #787878;
+    color:  rgb(224, 224, 224);
+    text-shadow: 2px 2px 8px #000000;
+    margin-left: 25px;
+    width: 75px;
+    height: 40px;
+    font-family: 'Garamond', Courier, monospace;
+}
+
+.Health
+{
+    background-color: #000000;
+    color: rgb(224, 224, 224);
+    text-shadow: 2px 2px 8px #000000;
+    margin-left: 25px;
+    width: 75px;
+    height: 40px;
+    font-family: 'Garamond', Courier, monospace;
+}
+
+.USNews
+{
+    background-color: #787878;
+    color:  rgb(224, 224, 224);
+    text-shadow: 2px 2px 8px #000000;
+    margin-left: 25px;
+    width: 75px;
+    height: 40px;
+    font-family: 'Garamond', Courier, monospace;
+}
+
+.Stories
+{
+    background-color: #787878;
+    color: rgb(224, 224, 224);
+    text-shadow: 2px 2px 8px #000000;
+    margin-left: 25px;
+    width: 70px;
+    height: 40px;   
+    font-family: 'Garamond', Courier, monospace;
+}
+
+.NewsTab
+{
+    background-color: #000000;
+    color: rgb(224, 224, 224);
+    margin-left: 25px;
+    width: 80px;
+    height: 20px; 
+    font-family: 'Garamond', Courier, monospace;
+}
+
+
 
