@@ -43,7 +43,7 @@ padding-top: 10px;
 
 .Politics
 {
-    background-color: #787878;
+    background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 150px;
@@ -87,7 +87,7 @@ padding-top: 10px;
 
 .Stories
 {
-    background-color: #787878;
+    background-color: #000000;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
@@ -98,10 +98,38 @@ padding-top: 10px;
 
 .NewsTab
 {
+    background-color: #787878;
+    color: rgb(224, 224, 224);
+    margin-left: 450px;
+    width: 80px;
+    height: 20px; 
+    font-family: 'Garamond', Courier, monospace;
+}
+
+.Reals
+{
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
     width: 80px;
+    height: 20px; 
+    font-family: 'Garamond', Courier, monospace;
+}
+.Donations
+{
+    background-color: #787878;
+    color: rgb(224, 224, 224);
+    margin-left: 25px;
+    width: 90px;
+    height: 20px; 
+    font-family: 'Garamond', Courier, monospace;
+}
+.Mission
+{
+    background-color: #000000;
+    color: rgb(224, 224, 224);
+    margin-left: 25px;
+    width: 125px;
     height: 20px; 
     font-family: 'Garamond', Courier, monospace;
 }
