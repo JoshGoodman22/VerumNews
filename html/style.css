@@ -1,15 +1,16 @@
 
 .topbar {
     margin: 0;
-    text-indent: 31px;
+    padding-right: 180px;
     padding-top: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     white-space: nowrap;
     font-family: "Garamond";
     background:  linear-gradient(90deg, rgba(231,231,240,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 .top-header {
+    text-indent: 45px;
     font-size: 49px;
 }
 
@@ -47,20 +48,20 @@ padding-top: 10px;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 150px;
-    width: 60x;
-    height: 40px;
-    font-family: 'Garamond', Courier, monospace;
+    width: 100px;
+    height: 55px;
+    font-family: 'Times', 'Courier', 'monospace';
 
 }
 .Climate
 {
-    background-color: #787878;
+    background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
-    width: 75px;
-    height: 40px;
-    font-family: 'Garamond', Courier, monospace;
+    width: 100px;
+    height: 55px;
+    font-family: 'Times', 'Courier', 'monospace';
 }
 
 .Health
@@ -69,20 +70,20 @@ padding-top: 10px;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
-    width: 75px;
-    height: 40px;
-    font-family: 'Garamond', Courier, monospace;
+    width: 100px;
+    height: 55px;
+    font-family: 'Times', 'Courier', 'monospace';
 }
 
 .USNews
 {
-    background-color: #787878;
+    background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
-    width: 75px;
-    height: 40px;
-    font-family: 'Garamond', Courier, monospace;
+    width: 100px;
+    height: 55px;
+    font-family: 'Times', 'Courier', 'monospace';
 }
 
 .Stories
@@ -91,19 +92,19 @@ padding-top: 10px;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
-    width: 70px;
-    height: 40px;   
-    font-family: 'Garamond', Courier, monospace;
+    width: 100px;
+    height: 55px;   
+    font-family: 'Times', 'Courier', 'monospace';
 }
 
 .NewsTab
 {
-    background-color: #787878;
+    background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 450px;
     width: 80px;
-    height: 20px; 
-    font-family: 'Garamond', Courier, monospace;
+    height: 40px; 
+    font-family: 'Times', 'Courier', 'monospace';
 }
 
 .Reals
@@ -112,17 +113,17 @@ padding-top: 10px;
     color: rgb(224, 224, 224);
     margin-left: 25px;
     width: 80px;
-    height: 20px; 
-    font-family: 'Garamond', Courier, monospace;
+    height: 40px; 
+    font-family: 'Times', Courier, monospace;
 }
 .Donations
 {
-    background-color: #787878;
+    background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
     width: 90px;
-    height: 20px; 
-    font-family: 'Garamond', Courier, monospace;
+    height: 40px; 
+    font-family: 'Times', Courier, monospace;
 }
 .Mission
 {
@@ -130,9 +131,16 @@ padding-top: 10px;
     color: rgb(224, 224, 224);
     margin-left: 25px;
     width: 125px;
-    height: 20px; 
-    font-family: 'Garamond', Courier, monospace;
+    height: 40px; 
+    font-family: 'Times', Courier, monospace;
 }
 
+.Logo
+{
+   width: 150px;
+   height: 150px;
+   float: left;
+
+}
 
 
