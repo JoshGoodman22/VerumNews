@@ -29,7 +29,7 @@ body{
 
 .NewsHead
 {
-font-size: 18px;
+font-size: 25px;
 font-family: 'Garamond', 'sans-serif', 'Gill Sans';
 margin-left: 30px;
 padding-top: 10px;
@@ -47,7 +47,7 @@ padding-top: 10px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
-    margin-left: 150px;
+    margin-left: 370px;
     width: 100px;
     height: 55px;
     font-family: 'Times', 'Courier', 'monospace';
@@ -101,9 +101,9 @@ padding-top: 10px;
 {
     background-color: #000000;
     color: rgb(224, 224, 224);
-    margin-left: 450px;
-    width: 80px;
-    height: 40px; 
+    margin-left: 130px;
+    width: 100px;
+    height: 55px; 
     font-family: 'Times', 'Courier', 'monospace';
 }
 
@@ -112,8 +112,8 @@ padding-top: 10px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
-    width: 80px;
-    height: 40px; 
+    width: 100px;
+    height: 55px; 
     font-family: 'Times', Courier, monospace;
 }
 .Donations
@@ -121,8 +121,8 @@ padding-top: 10px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
-    width: 90px;
-    height: 40px; 
+    width: 100px;
+    height: 55px; 
     font-family: 'Times', Courier, monospace;
 }
 .Mission
@@ -131,7 +131,7 @@ padding-top: 10px;
     color: rgb(224, 224, 224);
     margin-left: 25px;
     width: 125px;
-    height: 40px; 
+    height: 55px; 
     font-family: 'Times', Courier, monospace;
 }
 
