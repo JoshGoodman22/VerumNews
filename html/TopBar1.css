@@ -9,18 +9,11 @@
     font-family: "Garamond";
     background:  linear-gradient(90deg, rgba(231,231,240,1) 0%, rgba(0,0,0,1) 100%);
 }
-
-.SubHead
-{
-
-}
-
 .top-header {
     position: relative;
     text-indent: 45px;
     font-size: 55px;
 }
-
 .left-to-right {
     display:inline-block;
 }
@@ -173,5 +166,6 @@ text-align: center;
    margin-top: -7px;
 
 }
+
 
 

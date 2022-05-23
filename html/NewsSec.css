@@ -1,0 +1,21 @@
+.PoliticsHead
+{  color: rgb(0, 0, 0);
+     margin-left: 60px;
+    font-size: 45px;
+    font-family: 'Times', Courier, monospace;
+}
+.PolyBar
+{
+    margin-top: -25px;
+    margin-left: 54px;
+    width: 150px;
+}
+.Boris
+{
+border: 3px solid rgb(60, 60, 60);
+ margin-top: 18px;
+margin-left: 80px;
+width: 555px;
+padding: 5px;
+
+}
