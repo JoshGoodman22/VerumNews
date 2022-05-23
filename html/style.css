@@ -1,5 +1,6 @@
 
 .topbar {
+    position: relative;
     margin: 0;
     padding-right: 180px;
     padding-top: 5px;
@@ -9,9 +10,15 @@
     background:  linear-gradient(90deg, rgba(231,231,240,1) 0%, rgba(0,0,0,1) 100%);
 }
 
+.SubHead
+{
+
+}
+
 .top-header {
+    position: relative;
     text-indent: 45px;
-    font-size: 49px;
+    font-size: 55px;
 }
 
 .left-to-right {
@@ -20,22 +27,27 @@
 
 .NavPanel
 {
+    padding-top: 20px;
     display: inline-block;
 }
 
 body{
-    margin: 0px;
+    margin: 1px;
 }
 
 .NewsHead
 {
+    position: relative;
+    font-style: italic;
 font-size: 25px;
 font-family: 'Garamond', 'sans-serif', 'Gill Sans';
 margin-left: 30px;
-padding-top: 10px;
+padding-top: 5px;
+text-align: center;
 }
 .MiddleBar
 {
+    position: relative;
     width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -44,6 +56,8 @@ padding-top: 10px;
 
 .Politics
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -55,6 +69,8 @@ padding-top: 10px;
 }
 .Climate
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -66,6 +82,8 @@ padding-top: 10px;
 
 .Health
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -77,6 +95,8 @@ padding-top: 10px;
 
 .USNews
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -88,6 +108,7 @@ padding-top: 10px;
 
 .Stories
 {
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -99,6 +120,8 @@ padding-top: 10px;
 
 .NewsTab
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 130px;
@@ -109,6 +132,8 @@ padding-top: 10px;
 
 .Reals
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
@@ -118,6 +143,8 @@ padding-top: 10px;
 }
 .Donations
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
@@ -127,6 +154,8 @@ padding-top: 10px;
 }
 .Mission
 {
+    position: relative;
+    font-size: 17px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     margin-left: 25px;
@@ -137,9 +166,11 @@ padding-top: 10px;
 
 .Logo
 {
+    position: relative;
    width: 150px;
    height: 150px;
    float: left;
+   margin-top: -7px;
 
 }
 
