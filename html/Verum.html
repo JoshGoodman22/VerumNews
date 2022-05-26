@@ -2,8 +2,7 @@
 
 <head>
     <link rel="stylesheet" href="TopBar1.css">
-    <link rel="stylesheet" href="Politcs.css">
-    <link rel="stylesheet" href="Climate.css">
+    <link rel="stylesheet" href="NEWSCSS/Sections.css">
 
 
 </head>
@@ -11,7 +10,7 @@
 <div class="topbar">
 
     <div class="LogoPos">
-        <img class="Logo" src="Logo1.png" alt="Logo">
+        <img class="Logo" src="IMAGES/Logo1.png" alt="Logo">
     </div>
 
     <h1 class="top-header left-to-right ">
@@ -19,10 +18,10 @@
     </h1>
 
     <div class="Tabs left-to-right">
-        <button class="NewsTab" onclick="openCity('NewsTab')">News</button>
-        <button class="Reals" onclick="openCity('Reals')">Reals</button>
-        <button class="Donations" onclick="openCity('Donations')">Donations</button>
-        <button class="Mission" onclick="openCity('Mission')">Our Mission</button>
+        <button class="NewsTab" onclick="openNewsTab('NewsTab')">News</button>
+        <button class="Reals" onclick="openReals('Reals')">Reals</button>
+        <button class="Donations" onclick="openDonations('Donations')">Donations</button>
+        <button class="Mission" onclick="openMission('Mission')">Our Mission</button>
 
 
     </div>
@@ -30,11 +29,11 @@
 <hr>
 
 <div class="NavPanel">
-    <button class="Politics" onclick="openCity('Politics')">Politics</button>
-    <button class="Climate" onclick="openCity('Climate')">Climate</button>
-    <button class="Health" onclick="openCity('Health')">Health</button>
-    <button class="USNews" onclick="openCity('USNews')">US News</button>
-    <button class="Stories" onclick="openCity('Stories')">Stories</button>
+    <button class="Politics" onclick="openPolitics('Politics')">Politics</button>
+    <button class="Climate" onclick="openClimate('Climate')">Climate</button>
+    <button class="Health" onclick="openHealth('Health')">Health</button>
+    <button class="USNews" onclick="openUSNews('USNews')">US News</button>
+    <button class="Stories" onclick="openStories('Stories')">Stories</button>
 
 
 </div>
@@ -47,22 +46,63 @@
 <hr class="MiddleBar">
 
 <div class="PoliticSec">
-    <h2 class="PoliticsHead"> Politics </h2>
-    <hr class="PolyBar">
+    <h2 class="SectionsHead"> Climate </h2>
+    <hr class="SectionBar">
     <div class="panel-row">
         <div class="left-panel">
-            <img class="Boris" src="BorisSample.jpg" alt="LogoDecs">
-            <p class="MainSeqDec"> (AP) Boris Johnson is hornswoggled by the british curriculum. He cannot seem to figure out what ordinal numbers are</p>
+            <img class="MainImage" src="IMAGES/BorisSample.jpg" alt="LogoDecs">
+            <p class="MainSeqDec"> (AP) Boris Johnson is hornswoggled by the british curriculum. He cannot seem to
+                figure out what ordinal numbers are</p>
         </div>
         <div class="right-panel">
-            <p class="PolyArticle1"> (BBC) Doug Ford rattles bars on cell as imposter continues to competently manage COVID-19 pandemic</p>
+            <p class="SideArticle1"> (BBC) Doug Ford rattles bars on cell as imposter continues to competently manage
+                COVID-19 pandemic</p>
             <hr class="Sep1">
-            <p class="PolyArticle2"> (Reuters) Man Accused of Killing Lawyer Receives a New Attorney</p>
+            <p class="SideArticle2"> (Reuters) Murder says "This investigator ruined by reputation"</p>
             <hr class="Sep2">
-            <p class="PolyArticle3"> (C-Span) President Biden uses a Porty Potty outside of Palos Verdes</p>
+            <p class="SideArticle3"> (C-Span) President Biden uses a Porty Potty outside of Palos Verdes</p>
             <hr class="Sep3">
         </div>
     </div>
-    <!-- 
+</div>
 
-        <div> -->
+
+<div class="PoliticSec">
+    <h2 class="SectionsHead"> Politics </h2>
+    <hr class="SectionBar">
+    <div class="panel-row">
+        <div class="left-panel">
+            <img class="MainImage" src="IMAGES/ClimateSample.jpg" alt="LogoDecs">
+            <p class="MainSeqDec"> (AP) Large Dog sits on Ocean. He is a lonely sad dog. #SadDog</p>
+        </div>
+        <div class="right-panel">
+            <p class="SideArticle1"> (BBC) A polar bear is cold</p>
+            <hr class="Sep1">
+            <p class="SideArticle2">(Reuters) New study shows earth is getting colder..plot twist </p>
+            <hr class="Sep2">
+            <p class="SideArticle3">(C-Span) I will buy the earth and be king</p>
+            <hr class="Sep3">
+        </div>
+    </div>
+</div>
+
+<div class="PoliticSec">
+    <h2 class="SectionsHead"> Health </h2>
+    <hr class="SectionBar">
+    <div class="panel-row">
+        <div class="left-panel">
+            <img class="MainImage" src="IMAGES/HealthSample.jpg" alt="LogoDecs">
+            <p class="MainSeqDec"> Doctors have found a way to cure stupidity with vaccine. Its mandatory.</p>
+        </div>
+        <div class="right-panel">
+            <p class="SideArticle1"> (BBC) Miricale Pill kills 15th Patient</p>
+            <hr class="Sep1">
+            <p class="SideArticle2"> (Reuters) Breathing Oxygen is directly linked to staying alive</p>
+            <hr class="Sep2">
+            <p class="SideArticle3"> (C-Span) Starvation leads to health hazards</p>
+            <hr class="Sep3">
+        </div>
+    </div>
+</div>
+
+

@@ -1,25 +1,27 @@
-.PoliticsHead {
+.SectionsHead {
     color: rgb(0, 0, 0);
     margin-left: 60px;
     font-size: 45px;
     font-family: 'Times', Courier, monospace;
 }
 
-.PolyBar {
+.SectionBar {
     margin-top: -25px;
     margin-left: 54px;
     width: 150px;
 }
 
-.Boris {
+.MainImage {
     border: 3px solid rgb(60, 60, 60);
     width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .MainSeqDec {
     font-weight: bold;
     font-family: 'Times', Courier, monospace;
-    font-size: 18px;
+    font-size: 24px;
     color: black;
 }
 
@@ -49,7 +51,7 @@
     margin-top: 18px;
 }
 
-.PolyArticle1
+.SideArticle1
 {
     font-size: 19px;
     padding-left: 50px;
@@ -57,7 +59,7 @@
     font-weight: bold;
     margin-bottom: 60px;
 }
-.PolyArticle2
+.SideArticle2
 {
     margin-bottom: 60px;
     font-size: 19px;
@@ -65,7 +67,7 @@
     overflow: hidden;
     font-weight: bold;
 }
-.PolyArticle3
+.SideArticle3
 {
     margin-bottom: 60px;
     font-size: 19px;
