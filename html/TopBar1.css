@@ -16,6 +16,7 @@
 }
 .left-to-right {
     display:inline-block;
+    margin-left: 45px;
 }
 
 .NavPanel
@@ -51,6 +52,7 @@ text-align: center;
 {
     position: relative;
     font-size: 17px;
+    padding: 15px 22px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -58,12 +60,14 @@ text-align: center;
     width: 100px;
     height: 55px;
     font-family: 'Times', 'Courier', 'monospace';
+    text-decoration: none;
 
 }
 .Climate
 {
     position: relative;
     font-size: 17px;
+    padding: 15px 22px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -71,12 +75,14 @@ text-align: center;
     width: 100px;
     height: 55px;
     font-family: 'Times', 'Courier', 'monospace';
+    text-decoration: none;
 }
 
 .Health
 {
     position: relative;
     font-size: 17px;
+    padding: 15px 22px;
     background-color: #000000;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -84,12 +90,14 @@ text-align: center;
     width: 100px;
     height: 55px;
     font-family: 'Times', 'Courier', 'monospace';
+    text-decoration: none;
 }
 
 .USNews
 {
     position: relative;
     font-size: 17px;
+    padding: 15px 22px;
     background-color: #000000;
     color:  rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
@@ -97,64 +105,21 @@ text-align: center;
     width: 100px;
     height: 55px;
     font-family: 'Times', 'Courier', 'monospace';
+    text-decoration: none;
 }
 
 .Stories
 {
     font-size: 17px;
     background-color: #000000;
+    padding: 15px 22px;
     color: rgb(224, 224, 224);
     text-shadow: 2px 2px 8px #000000;
     margin-left: 25px;
     width: 100px;
     height: 55px;   
     font-family: 'Times', 'Courier', 'monospace';
-}
-
-.NewsTab
-{
-    position: relative;
-    font-size: 17px;
-    background-color: #000000;
-    color: rgb(224, 224, 224);
-    margin-left: 130px;
-    width: 100px;
-    height: 55px; 
-    font-family: 'Times', 'Courier', 'monospace';
-}
-
-.Reals
-{
-    position: relative;
-    font-size: 17px;
-    background-color: #000000;
-    color: rgb(224, 224, 224);
-    margin-left: 25px;
-    width: 100px;
-    height: 55px; 
-    font-family: 'Times', Courier, monospace;
-}
-.Donations
-{
-    position: relative;
-    font-size: 17px;
-    background-color: #000000;
-    color: rgb(224, 224, 224);
-    margin-left: 25px;
-    width: 100px;
-    height: 55px; 
-    font-family: 'Times', Courier, monospace;
-}
-.Mission
-{
-    position: relative;
-    font-size: 17px;
-    background-color: #000000;
-    color: rgb(224, 224, 224);
-    margin-left: 25px;
-    width: 125px;
-    height: 55px; 
-    font-family: 'Times', Courier, monospace;
+    text-decoration: none;
 }
 
 .Logo
@@ -167,5 +132,17 @@ text-align: center;
 
 }
 
+.Tabs a {
+    position: relative;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+    padding: 18px 29px;
+    margin-left: 25px;
+    width: 100px;
+    height: 55px; 
+    font-family: 'Times', Courier, monospace;
+    text-decoration: none;
+}
 
 
