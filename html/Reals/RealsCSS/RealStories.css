@@ -1,0 +1,34 @@
+.real-stories
+{
+    margin: auto;
+    margin-left: 79px;
+    margin-top: 150px
+}
+.real-stories-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    margin-bottom: -3px;
+}
+.stories-explanation
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.stories-header{
+    text-align: center;
+    font-size: 39px;
+    margin-bottom: 10px;
+}
+
+.stories-bar
+{
+    width: 200px;
+}
+.stories-content
+{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height: 1.5;
+    margin-top: 35px;
+}
+
