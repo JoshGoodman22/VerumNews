@@ -5,7 +5,7 @@
     border: #000000;
     border-style: solid;
     border-radius: 3px;
-    width: 200px;
+    width: 240px;
     font-size: 22px;
     float: right;
     margin-top: -9px;
@@ -59,17 +59,36 @@
 .donations-box
 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     border: #000000;
     border-style: solid;
     border-radius: 3px;
     width: 1200px;
     margin-left: 150px;
-    height: 125px;
+    height: 200px;
 }
+
+
+.charity-logo
+{
+position: relative;
+font-size: 17px;
+background-color: black;
+color: white;
+padding: 18px 29px;
+margin-left: 25px;
+width: 100px;
+height: 55px; 
+font-family: 'Times', Courier, monospace;
+text-decoration: none;
+}
+
 .charity-summary
 {
+    margin-left: 73px;
+    margin-top: 45px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
-    width: 400px
+    width: 400px;
 }
