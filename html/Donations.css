@@ -66,6 +66,7 @@
     width: 1200px;
     margin-left: 150px;
     height: 200px;
+    margin-bottom: 15px;
 }
 
 
@@ -73,22 +74,63 @@
 {
 position: relative;
 font-size: 17px;
-background-color: black;
-color: white;
-padding: 18px 29px;
-margin-left: 25px;
-width: 100px;
-height: 55px; 
+width: fit-content;
 font-family: 'Times', Courier, monospace;
 text-decoration: none;
+margin-top: 10px;
+margin-bottom: 10px;
 }
 
 .charity-summary
 {
     margin-left: 73px;
-    margin-top: 45px;
+    margin-top: 10px;
     font-size: 20px;
     display: flex;
     justify-content: center;
-    width: 400px;
+    width: 500px;
+}
+.left-logo
+{
+    display: flex;
+    width: 255px;
+}
+
+
+.right-seeds{
+
+}
+.seed-vote{
+    display: flex;
+    font-size: 55px;
+    margin-left: 160px;
+    margin-top: 65px;
+}
+.counter{
+display: flex;
+ background-color: white;
+ border: none;
+ margin-top: 100px;
+ margin-top: 50px;
+
+ font-size: 68px;
+
+}
+
+.display-seed
+{
+    font-style: oblique;
+    margin-top: 110px;
+}
+
+.charity-name
+{
+    margin-left: 25px;
+    font-style: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.charity-name-bar
+{
+    width: 90px;
 }
