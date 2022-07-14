@@ -1,0 +1,92 @@
+.general-reals
+{
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.reals-header-section
+{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 70px;
+    margin-left: 165px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.section-header-line
+{
+    width: 400px;
+    margin-left: 165px;
+}
+.general-real-content
+{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border-style: solid;
+    margin-left: 110px;
+    width: 524px;
+    background-color: rgb(163, 163, 163);
+    margin-bottom: 20px;
+}
+.general-username
+{
+    display: flex;
+    color: aliceblue;
+    margin-left: 73px;
+    margin-top: -32px;
+
+    font-size: 20px;
+}
+.general-real-message
+{
+    margin-left: 22px;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.2;
+}
+.general-real-timestamp
+{
+    color: #454343;
+    margin-left: 325px;
+}
+.link-box
+{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 400px;
+    margin-left: 52px;
+    border-radius: 7px;
+}
+.hyper-link-image
+{
+    width: 400px;
+}
+.website-loc
+{
+    color: #363636;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+    text-decoration: underline;
+
+}
+.hyperlink-dec
+{
+    font-family: 'Tahoma', 'Geneva', sans-serif;
+    margin-top: -10px;
+    margin-left: 5px;
+    text-decoration: none;
+
+}
+.lower-half-hl
+{
+    background: grey;
+}
+.testline
+{
+    
+}

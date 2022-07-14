@@ -1,0 +1,136 @@
+.seed-counter
+{
+    display: flex;
+    flex-direction: row;
+    border: #000000;
+    border-style: solid;
+    border-radius: 3px;
+    width: 240px;
+    font-size: 22px;
+    float: right;
+    margin-top: -9px;
+    margin-right: 100px;
+    background-color: #d4d4d4;
+}
+.seed-counter-content
+{
+    margin-left: 40px;
+}
+
+
+.roots {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 70px;
+    letter-spacing: 2.2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    margin-left: 200px;
+    margin-bottom: -10px;
+    text-shadow: 4px 3px 0 #7A7A7A;
+
+}
+
+.roots-bar
+{
+    width: 260px;
+    margin-left: 200px;
+}
+
+.roots-ex
+{
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 40px;
+    line-height: 1.2;
+}
+
+
+.charity-section
+{
+    margin-top: 40px;
+}
+
+.donations-box
+{
+    display: flex;
+    flex-direction: row;
+    border: #000000;
+    border-style: solid;
+    border-radius: 3px;
+    width: 1200px;
+    margin-left: 150px;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+
+.charity-logo
+{
+position: relative;
+font-size: 17px;
+width: fit-content;
+font-family: 'Times', Courier, monospace;
+text-decoration: none;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.charity-summary
+{
+    margin-left: 73px;
+    margin-top: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+.left-logo
+{
+    display: flex;
+    width: 255px;
+}
+
+
+.right-seeds{
+
+}
+.seed-vote{
+    display: flex;
+    font-size: 55px;
+    margin-left: 160px;
+    margin-top: 65px;
+}
+.counter{
+display: flex;
+ background-color: white;
+ border: none;
+ margin-top: 100px;
+ margin-top: 50px;
+
+ font-size: 68px;
+
+}
+
+.display-seed
+{
+    font-style: oblique;
+    margin-top: 110px;
+}
+
+.charity-name
+{
+    margin-left: 25px;
+    font-style: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.charity-name-bar
+{
+    width: 90px;
+}
